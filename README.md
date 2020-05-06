@@ -1,4 +1,4 @@
-TekBooks
+Book Store
 ===========
 
-Simple technology book store
+Book store project
